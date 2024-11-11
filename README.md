@@ -1,6 +1,6 @@
 The following is included in this replication:
 
-a) The data is contained in the xlx file in the same format as it was provided by the authors on their websites.
+a) The data is contained in the xlsx file in the same format as it was provided by the authors on their websites.
 
 b) The empirical strategy is the same as in the original paper, and the Python codes are included in the Jupyter notebook in the PDF file.
 
